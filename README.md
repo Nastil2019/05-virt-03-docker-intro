@@ -44,4 +44,10 @@
 
 ## Задача 4
 
-### 1. 
+### 1. Работа с томами и контейнерами CentOS/Debian
+<img width="1099" height="663" alt="image" src="https://github.com/user-attachments/assets/e97b510c-1f06-4f3b-bda5-1cf1cf1ee8f4" />
+### 2.  Добавление файлов в 1й контейнер, на хостовой машине и чтение их на 2м контейере
+<img width="641" height="446" alt="image" src="https://github.com/user-attachments/assets/6c742e7c-e5d1-4264-bbdf-0861fd6c227d" />
+
+## Задача 5
+
