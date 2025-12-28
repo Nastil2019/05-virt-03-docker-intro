@@ -51,3 +51,28 @@
 
 ## Задача 5
 
+### 1. Создайте отдельную директорию(например /tmp/netology/docker/task5) и 2 файла внутри него.
+<img width="641" height="83" alt="image" src="https://github.com/user-attachments/assets/71ed301b-0cd1-413a-a152-419a46bf4cf3" />
+### 2. И выполните команду "docker compose up -d". Какой из файлов был запущен и почему?
+<img width="1422" height="161" alt="image" src="https://github.com/user-attachments/assets/7f1a5145-eee7-48c1-9427-55dfb8f66c25" />
+по умолчанию его ищет если не указать конкретный файл
+### 3. Отредактируйте файл compose.yaml так, чтобы были запущенны оба файла
+<img width="467" height="287" alt="image" src="https://github.com/user-attachments/assets/e3ff0427-b6c8-4c99-801b-090901c96d21" />
+### 4.  Выполните в консоли вашей хостовой ОС необходимые команды чтобы залить образ custom-nginx как custom-nginx:latest в запущенное вами, локальное registry
+<img width="1884" height="803" alt="image" src="https://github.com/user-attachments/assets/79a29632-2009-4c38-aab5-b5d406ae9d22" />
+### 5. 
+<img width="1664" height="870" alt="image" src="https://github.com/user-attachments/assets/3c591024-1af9-4e3d-9c57-81825fa47ed8" />
+### 6. 
+<img width="1877" height="836" alt="image" src="https://github.com/user-attachments/assets/5d04e686-d5c2-4af0-bc4f-dc544884dace" />
+<img width="1586" height="858" alt="image" src="https://github.com/user-attachments/assets/52d306f3-7904-48dc-aea0-f62741265251" />
+### 7. Удалить одной комадой 
+<img width="1901" height="262" alt="image" src="https://github.com/user-attachments/assets/b73824d9-be1f-45ad-aaa6-fd0ed492feb2" />
+Суть предупреждения,что версия 3 в Docker Compose устарела и больше не поддерживается разработчиками. В будущих версиях Docker Compose она может быть полностью удалена. Рекомендуется использовать версию 3.8 или выше, чтобы ваш compose.yaml оставался совместимым с новыми версиями.
+
+
+
+
+
+
+
+
